@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding joyfull newes from Coventry declaring the happy successe of Col. Hambden, Col. Goodwyn, and the citisens of Coventry, against Prince Robert and his forces, who besieged Coventry on Friday last. With the number of them that were slain, and the taking of Cap. Iohnson and many other prisoners. Also the victorious proceedings of the Earle of Argile against the Earl of Derbie, who while the E. of Derby besieged Manchester the second time, and was from thence repulsed, seized upon the Ile of Man, the ancient inheritance of the Earls of Derby, and hath there placed many strong garrisons. With exceeding good news from Holland, expressed in the fidelity of the States to the Parliament of England, who made stay of four great vessels laden with men and ammunition to assist the King against the Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84238</idno>
+            <idno type="STC">Wing E3742</idno>
+            <idno type="STC">Thomason E123_13</idno>
+            <idno type="STC">ESTC R15173</idno>
+            <idno type="EEBO-CITATION">99859814</idno>
+            <idno type="PROQUEST">99859814</idno>
+            <idno type="VID">111913</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84238)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111913)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E123[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceeding joyfull newes from Coventry declaring the happy successe of Col. Hambden, Col. Goodwyn, and the citisens of Coventry, against Prince Robert and his forces, who besieged Coventry on Friday last. With the number of them that were slain, and the taking of Cap. Iohnson and many other prisoners. Also the victorious proceedings of the Earle of Argile against the Earl of Derbie, who while the E. of Derby besieged Manchester the second time, and was from thence repulsed, seized upon the Ile of Man, the ancient inheritance of the Earls of Derby, and hath there placed many strong garrisons. With exceeding good news from Holland, expressed in the fidelity of the States to the Parliament of England, who made stay of four great vessels laden with men and ammunition to assist the King against the Parliament.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard West,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>October 19. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Argyll, Archibald Campbell, --  Marquis of, 1598-1661 --  Early works to 1800.</term>
+               <term>Derby, James Stanley, --  Earl of, 1607-1651 --  Early works to 1800.</term>
+               <term>Goodwin, Arthur, 1593 or 4-1643 --  Early works to 1800.</term>
+               <term>Hampden, John, 1594-1643 --  Early works to 1800.</term>
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Coventry (England) --  History, Military --  Early works to 1800.</term>
+               <term>Manchester (England) --  History, Military --  Early works to 1800.</term>
+               <term>Isle of Man --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111913:1" rendition="simple:additions"/>
+            <p>Exceeding Joyfull NEWES FROM COVENTRY Declaring the happy Succeſſe of Col. <hi>Hambden,</hi> Col. <hi>Goodwyn,</hi> and the Citiſens of <hi>Coventry,</hi> againſt Prince <hi>Robert</hi> and his forces, who beſieged <hi>Coventry</hi> on Friday-laſt. With the number of them that were ſlain, and the taking of Cap. <hi>Iohnſon</hi> and many other priſoners.</p>
+            <p>Alſo the victorious Proceedings of the Earle of <hi>Argile</hi> againſt the Earl of <hi>Derbie,</hi> who while the E. of <hi>Derby</hi> beſieged <hi>Mancheſter</hi> the ſecond time, and was from thence repulſed, ſeized upon the Ile of <hi>Man,</hi> the antient Inheritance of the Earls of <hi>Derby,</hi> and hath there placed many ſtrong Garriſons.</p>
+            <p>With exceeding good News from <hi>Holland,</hi> ex<g ref="char:EOLhyphen"/>preſſed in the fidelity of the States to the Parliament of <hi>England,</hi> who made ſtay of four great Veſſels laden with men and Ammunition to aſſiſt the King againſt the Parliament.</p>
+            <p>Printed for <hi>Richard Weſt,</hi> October 19, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111913:2"/>
+            <pb facs="tcp:111913:2"/>
+            <head>Exceeding Joyfull Newes from Worſter.</head>
+            <p>SInce Prince <hi>Robert</hi> had thoſe moſt hap<g ref="char:EOLhyphen"/>py Defeats given to him at Worſter and Ludlow, wherein the malignant party for a ſeaſon ſomething weakned, he hath ſince marched and lay with his forces within two miles of Burmegum, with a Reſolution to make a ſecond attempt up<g ref="char:EOLhyphen"/>on the City of <hi>Coventry.</hi>
+            </p>
+            <p>And upon Tueſday laſt he advanced his Forces, and upon Friday notwithſtanding the violence of the weather, his Forces l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y before the City, but according to the old Proverbe, <hi>He that is fore-warned, is fore<g ref="char:EOLhyphen"/>armed.</hi>
+            </p>
+            <p>The Citiſens of <hi>Corentry</hi> having intel<g ref="char:EOLhyphen"/>ligence of his determination, did ſo ſtreng<g ref="char:EOLhyphen"/>then and prepared themſelves for <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> com<g ref="char:EOLhyphen"/>ming, that his attempts will be fruſtrated:</p>
+            <pb facs="tcp:111913:3"/>
+            <p> For beſides other proviſion which was abundant, and ſtrong they had planted 26 pieces of Ordnance, with which they could play upon his forces which way ſoever he ſhould aſſault them.</p>
+            <p>Upon Satterday according to his Reſo<g ref="char:EOLhyphen"/>lution he made an attempt upon the City but he found oppoſition to be beyond ex<g ref="char:EOLhyphen"/>pectation, and all his Aſſaults and Onſets were in vain and he not only was repulſed from his purpoſe, but with a great loſſe and much hurt done to his forces he was con<g ref="char:EOLhyphen"/>ſtrained to retreat.</p>
+            <p>For the Citiſens of <hi>Coventry</hi> beſides the help and aſſiſtance of the Inhabitants round about them were aſſiſted with other po<g ref="char:EOLhyphen"/>wer and Forces.</p>
+            <p>For Collonell <hi>Hambden</hi> and Collonell <hi>Goodwyn,</hi> and ſome other Troopes which lay near <hi>Banbury</hi> ſide came in, and ſo vio<g ref="char:EOLhyphen"/>lently ſet upon the Cavaleirs, that with a great loſſe they gave of their attempt, their were very many of them ſlain, ſome taken priſoners.</p>
+            <p>The Number of them that were ſlain is
+<pb facs="tcp:111913:3"/>not certainly known, for they buried them in the place where they fell, and among many others one Captain <hi>Johnſon</hi> was ta<g ref="char:EOLhyphen"/>ken priſoner, a man very active in the pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>motion of this their cauſe.</p>
+            <p>The ſaid Captain is now in the Goal at <hi>Coventry,</hi> and with the reſt that were taken priſoners with him will be ſent up to <hi>London,</hi> ſo ſoon as thoſe places are ſecured from the Cavaleers.</p>
+            <p>The Earl of <hi>Derby</hi> hath lately made a ſecond aſſault upon <hi>Mancheſter,</hi> but with as much diſcredit, and as ſmall ſucceſſe as his firſt was. For he was beaten back with great loſſe and hazard of himſelfe, and al<g ref="char:EOLhyphen"/>though he eſcaped with life, yet that was alſo in great hazard, for he was ſhot in the ſhoulder from the Town, and with much difficulty he got away, while the Earl did buſie himſelf in thoſe tumultuous ways a<g ref="char:EOLhyphen"/>broad, he little dreamed how his owne e<g ref="char:EOLhyphen"/>ſtate lay at ſtake at home, neither did hee conceive the leaſt fuſpition of any forrein enemy, but delighting himſelf with the publique diſtractions, he neglected his own eſtate.</p>
+            <pb facs="tcp:111913:4"/>
+            <p> For while he did moleſt the Countries of <hi>Cheſter,</hi> and <hi>Lancaſter,</hi> the Earl of <hi>Argile</hi> a man full of conſcience and valour wit<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ten thouſand men did beſiege the Ile o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Man,</hi> which is the Inheritance belonging to the Earls of Derby, and the ſiege was nei<g ref="char:EOLhyphen"/>ther tedious nor dangerous.</p>
+            <p>For he got the Iland almoſt without a<g ref="char:EOLhyphen"/>ny oppoſition, and hath there placed in di<g ref="char:EOLhyphen"/>vers places very ſtrong Garriſons.</p>
+            <p>He hath expelled the Country of all thoſe whoſe integrity he doth ſuſpect, and whom he doth not find to be for the <hi>King and Parliament.</hi>
+            </p>
+            <p>He hath enriched himſelf with great ſtore of treaſure, and other neceſſary pro<g ref="char:EOLhyphen"/>viſion for War, which the Earls Father, and he that now is Earl had laid up there, this Earl intending that if his purpoſes ſhould not take effect, that then he would fly into the Iland, and with that proviſion that he had ſent thither, and was there treaſured up, and with the aſſiſtance of the Inhabi<g ref="char:EOLhyphen"/>tants of the Iland, of whoſe faith and con<g ref="char:EOLhyphen"/>ſtancie he ſeemed to be confident, to defend
+<pb facs="tcp:111913:4"/>and ſecure himſelf from any power that ſhould purſue him, and that he was reſol<g ref="char:EOLhyphen"/>ved there to ſtand upon his guard.</p>
+            <p>But this his deſign is fruſtrate, for he is not like to regain it again, by reaſon that the Earl of <hi>Argile</hi> hath placed ſuch ſtrong Forces there.</p>
+            <p>There were lately in <hi>Holland,</hi> by meanes of the Queen 4. great Veſſels provided, rig'd and laden with great ſtore of Ammunition and Arms.</p>
+            <p>But the States according to their for<g ref="char:EOLhyphen"/>merly promiſed fidelity did make ſtay of the ſhipping and all the reſt of the provi<g ref="char:EOLhyphen"/>ſion, and cauſed the ſhips to be unladen, and have alſo taken ſuch order, that if any Com<g ref="char:EOLhyphen"/>manders whatſoever who are imployed in the ſervice of the States, under the Com<g ref="char:EOLhyphen"/>mand of the Prince of <hi>Orange,</hi> ſhall at any time come away, and leave their preſent ſervice to aſſiſt the King againſt his Par<g ref="char:EOLhyphen"/>liament, that they ſhall for ever be ca<g ref="char:EOLhyphen"/>ſheerd of their places, and be made unca<g ref="char:EOLhyphen"/>pable hereafter of the ſame office and place again.</p>
+            <pb facs="tcp:111913:5"/>
+            <p> And they did alſo by a Meſſage ſent to the Houſe, intimate their good affection which they bear to the Parliament, and although there hath bin very many plots and deſigns both there, and alſo in divers other places ſet on foot to promote the cauſe of the diſturbers of the peace and quiet df this Kingdome, yet that they hi<g ref="char:EOLhyphen"/>ther have, and hereafter will, be vigilant to prevent all ſuch attempts whatſoever, and that they will not admit as neer as poſſi<g ref="char:EOLhyphen"/>bly they can, that any plot or conſpiracie whatſoever ſhall take effect in thoſe Coun<g ref="char:EOLhyphen"/>tryes, that might any wayes ſeeme preju<g ref="char:EOLhyphen"/>diciall to the preſent Proceedings of the Parliament of <hi>England.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
